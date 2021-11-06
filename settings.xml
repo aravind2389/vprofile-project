@@ -30,7 +30,7 @@
     <mirror>
       <id>${CENTRAL-REPO}</id>
       <name>${CENTRAL-REPO}</name>
-      <url>http://3.91.234.88:8081/nexus/repository/${NEXUS-GRP-REPO}/</url>
+      <url>http://3.91.234.88:8081/nexus/#view-repositories;vprofile-maven-group~browseindex/</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
